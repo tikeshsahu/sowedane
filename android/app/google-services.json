@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150164430959",
+    "project_id": "sowedane-34bbe",
+    "storage_bucket": "sowedane-34bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150164430959:android:1a597c2c4eb6474fdeed9a",
+        "android_client_info": {
+          "package_name": "com.sowedane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150164430959-vaci1jm9p204ntojco3kd0gfdv2ssqcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-BIhjo60GSw70PitfngJnXhxQpnTR0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150164430959-vaci1jm9p204ntojco3kd0gfdv2ssqcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
